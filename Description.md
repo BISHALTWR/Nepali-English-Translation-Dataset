@@ -25,7 +25,7 @@
 - **Description**: Use generative AI models for correcting copied text from "Nepal_ko_sambidan_2072_np.pdf" since copied text may be cryptic.
 > ./dataset/constitution_of_nepal.tsv was contributed by `Biraj Tiwari, ...` and verified and edited by `Bishal Tiwari`
 
-### Budget Speech 2081/82 Translation (Being worked on)
+### Budget Speech 2081/82 Translation (Done)
 - **From**: [Ministry of finance](https://www.mof.gov.np/site/publication-category/87)
 - **Content**: Self-explanatory
 - **Description**: Available in copyable format
