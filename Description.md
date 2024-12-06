@@ -13,6 +13,12 @@
 - **Description**: Need to use OCR or type for Nepali version as the text in pdf can't be copied. 
 > ./dataset/parijat_shirish_ko_phool.tsv was created by `Kebin Malla` and verified and edited by `Bishal Tiwari`
 
+### Palpasa_Cafe Translation (Remaining)
+- **From**: `Unknown`
+- **Content**: {Palpasa_Cafe:Nepali, Palpasa_Cafe:English}
+- **Description**: Need to use OCR or type for Nepali version as the text in pdf can't be copied. The handy tool was https://fileverter.com/ocr/nepali
+> ./dataset/palpasacafe.tsv was created by `Kebin Malla` and verified and **must be edited** by `Bishal Tiwari`
+
 ### Constitution_of_nepal Translation (Being worked on)
 - **From**: [English PDF](https://ag.gov.np/files/Constitution-of-Nepal_2072_Eng_www.moljpa.gov_.npDate-72_11_16.pdf), [Nepali PDF](https://daobhaktapur.moha.gov.np/en/post/constitution-of-nepal-2072) 
 - **Content**: Constitution-of-Nepal_2015_AD: English, Nepal_ko_sambidan_2072_BS: Nepali
